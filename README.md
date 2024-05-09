@@ -40,7 +40,7 @@ O upload de arquivos pode ser automatizado e integrado a fluxos de trabalho exis
 
 ![UP](/Imagens/05.png)
 
-2. Podemos verificar que o versionamento aplicado anteriormente esta funcionando, basta repitir o upload do mesmo arquivo.
+2. Podemos verificar que o versionamento aplicado anteriormente esta funcionando, basta repetir o upload do mesmo arquivo.
 
 ![UP](/Imagens/06.png)
 
